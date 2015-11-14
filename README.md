@@ -45,6 +45,11 @@ import "github.com/giancosta86/LockAPI/lockapi"
 From now on, you can use the functions available in the **lockapi** package.
 
 
+## Reference
+
+The full GoDoc reference is available at [this page](https://godoc.org/github.com/giancosta86/LockAPI/lockapi).
+
+
 ## Example programs
 
 Simple example programs can be found in the test package:
