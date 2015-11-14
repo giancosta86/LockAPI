@@ -18,7 +18,7 @@ These details are masked by a simplified, cross-platform facade provided by the 
 
 The installation requires, as usual, *go get*:
 
-> go get github.com/giancosta86/LockAPI
+> go get github.com/giancosta86/LockAPI/lockapi
 
 
 ## Requirements
